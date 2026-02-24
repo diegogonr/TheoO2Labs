@@ -1,12 +1,12 @@
 /*-----------------------------------------------------------------
 [Master Stylesheet]
 
-Project:        Tecmo
+Project:        THEO2LABS
 Author URI:     https://themeforest.net/user/themedox
 Version:        1.1
 File:           Js File
 Last change:    01/01/2025
-Assigned to:    Tecmo - IT Solution and Technology HTML Template
+Assigned to:    THEO2LABS - Product & Technology Partner
 Primary use:    Visa 
 -------------------------------------------------------------------
 CSS TABLE OF CONTENTS
